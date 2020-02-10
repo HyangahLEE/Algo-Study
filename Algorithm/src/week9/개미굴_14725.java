@@ -1,4 +1,4 @@
-package week9;
+package src.week9;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -17,7 +17,7 @@ public class °³¹Ì±¼_14725 {
 			
 			for (int j = 0; j < k; j++) {
 				antsHill[j] = sc.nextLine();
-				if(antsHill[j+1].equals("")) {
+				if(antsHill[j+1].equalse("")) {
 					
 				}
 			}
